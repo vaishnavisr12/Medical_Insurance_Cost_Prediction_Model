@@ -1,5 +1,5 @@
 # Medical Insurance Cost Prediction System
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3VLS5TaEI2RWKJgQtrmuXQBjWPQ3rlfh_w&s)
+![](https://www.universalsompo.com/blogs/assets/images/what-health-insurance-premium.jpg)
 
 ## 📝 Overview
 This repository contains a complete end-to-end Machine Learning predictive system designed to estimate medical insurance costs for individuals. Built using Python and the `Scikit-Learn` library, the core of this system relies on a **Linear Regression** model. 
